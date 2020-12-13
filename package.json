@@ -1,0 +1,31 @@
+{
+  "name": "webpack-starter-plus",
+  "version": "0.0.1",
+  "description": "webpack starter plus",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seymoe/webpack-starter-plus.git"
+  },
+  "keywords": [
+    "webpack-starter",
+    "webpack-template",
+    "webpack"
+  ],
+  "author": "seymoe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seymoe/webpack-starter-plus/issues"
+  },
+  "homepage": "https://github.com/seymoe/webpack-starter-plus#readme",
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^4.5.0",
+    "webpack": "^5.10.1",
+    "webpack-cli": "^4.2.0"
+  }
+}
