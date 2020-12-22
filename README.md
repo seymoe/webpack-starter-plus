@@ -19,3 +19,7 @@ yarn add clean-webpack-plugin  --dev
 ```
 yarn add html-webpack-plugin --dev
 ```
+
+4. dev-server 配置
+
+5. typescript 配置
